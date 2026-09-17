@@ -6,7 +6,7 @@ Neste projeto, eu construí do zero a Landing Page para o Tecboard, um serviço 
 O layout da página é responsivo, criado para as versões Desktop, Tablet (max-width: 768px) e Mobile (max-width: 440px).
 
 ## 🚀 Tecnologias
-[![HTML](https://shields.io)](https://mozilla.org) [![CSS](https://shields.io)](https://mozilla.org)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white") ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Projeto de aprendizado - Primeira implementação: 
 Desenvolvida durante meus estudos de desenvolvimento Front-End, com foco em aprender a estruturar páginas HTML e estilizá-las com CSS externo.
@@ -20,13 +20,13 @@ Desenvolvida durante meus estudos de desenvolvimento Front-End, com foco em apre
 - Publicação de sites
 
 <p align="center">
-  <img src="./tecboard/img/tecboard-v-mobile.png" alt="Design da versão mobile da Landing Page" width="300">
+  <img src="./img/tecboard-v-mobile.png" alt="Design da versão mobile da Landing Page" width="300">
   <br>
   <sub>Design da versão mobile da Landing Page do Tecboard.</sub>
 </p>
 
 <p align="center">
-  <img src="./tecboard/img/tecboard-v-tablet.png" alt="Design da versão para tablet da Landing Page" width="300">
+  <img src="./img/tecboard-v-tablet.png" alt="Design da versão para tablet da Landing Page" width="300">
   <br>
   <sub>Design da versão para tablet da Landing Page do Tecboard.</sub>
 </p>
@@ -35,7 +35,7 @@ Desenvolvida durante meus estudos de desenvolvimento Front-End, com foco em apre
   <summary>📸 Clique aqui para ver a versão Desktop!</summary>
   <br>
   <p align="center">
-    <img src="./tecboard/img/tecboard-v-desktop.png" alt="Preview da Landing Page do Tecboard" width="600">
+    <img src="./img/tecboard-v-desktop.png" alt="Preview da Landing Page do Tecboard" width="600">
     <br>
     <i>Design da versão desktop da Landing Page do Tecboard.</i>
   </p>
@@ -46,4 +46,3 @@ Desenvolvida durante meus estudos de desenvolvimento Front-End, com foco em apre
 # Feito por
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/253324134?v=4" width=115><br><sub>Mylena Marques Ribeiro</sub>](https://github.com/MilyMarques) |
-| :---: |
